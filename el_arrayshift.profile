@@ -99,7 +99,7 @@ function _arrayshift_cck_inline_comments(){
 	  'node_comment' => 0,
 	  'node_comment_type' => '',
 	  'node_comment_plural' => 'comments',
-	  'node_comment_view' => 'nodecomments',
+	  //'node_comment_view' => 'nodecomments',
 	  'node_comment_topic_review' => '0',
 	  'commentformsettings_author' => '0',
 	  'commentformsettings_preview' => '0',
